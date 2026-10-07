@@ -1,6 +1,6 @@
-# Simulacija upozorenja na temperaturu
+# Ovo je izmjena naslova
 
-Inačica: demo-v04. Projekt provjerava ručno unesenu temperaturu. Nema fizičkog senzora, mjerenja vlage ni upravljanja ventilatorom.
+Inačica: Ovaj projekt provjerava ručno unesenu temperaturu
 
 ## Pokretanje
 
@@ -11,11 +11,11 @@ Inačica: demo-v04. Projekt provjerava ručno unesenu temperaturu. Nema fizičko
 
 Valjan raspon je od -40 do 85 °C uključivo. Upozorenje se pojavljuje za vrijednost strogo veću od 28 °C, najkasnije pet sekundi nakon klika.
 
-## Namjerno pogrešna inačica za tutorial 08
+## Ovo je izmjena prvog naslova
 
 Otvorite `variants/pogreska-prag/index.html`. Ona namjerno koristi prag 35 umjesto zahtijevanih 28. Unos 30 zato otkriva pogrešku. Ne koristite je kao ispravnu projektnu inačicu.
 
-## Dokumentacija
+## Ovo je izmjena drugog podnaslova
 
 - [Zahtjevi](docs/ZAHTJEVI.md)
 - [Testovi](docs/TESTOVI.md)
@@ -32,4 +32,4 @@ Otvorite `variants/pogreska-prag/index.html`. Ona namjerno koristi prag 35 umjes
 
 ![Kontekst aplikacije](docs/slike/sustav.png)
 
-U ovoj vježbi veličina simulacije služi učenju alata. Složenost godišnjeg projekta dogovara se zasebno.
+U ovoj vježbi veličina simulacije služi učenju alata. Složenost godišnjeg projekta dogovara se zasebno.John Pork wuz here.
