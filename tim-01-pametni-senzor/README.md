@@ -4,13 +4,12 @@ Inačica: Ovaj projekt provjerava ručno unesenu temperaturu
 
 ## Pokretanje
 
-1. Kopirajte cijelu mapu `tim-01-pametni-senzor` na vlastito računalo.
-2. U pregledniku otvorite `src/index.html`. Instalacija dodataka ili poslužitelja nije potrebna.
-3. Unesite `30` i kliknite **Provjeri temperaturu**. Očekujte upozorenje.
-4. Unesite `28`. Očekujte dopušteno stanje. Prazan unos mora dati pogrešku.
+1. Kopirajte cijelu mapu `tim-01-pametni-senzor`
+2. U pregledniku otvorite `src/index.html`.
+3. Unesite `30` i kliknite **Provjeri temperaturu**. 
+4. Unesite `28`. Očekujte dopušteno stanje. 
 
-Valjan raspon je od -40 do 85 °C uključivo. Upozorenje se pojavljuje za vrijednost strogo veću od 28 °C, najkasnije pet sekundi nakon klika.
-
+Valjan raspon je od -40 do 85 °C uključivo. Upozorenje se pojavlja na T > 30 °C
 ## Ovo je izmjena prvog naslova
 
 Otvorite `variants/pogreska-prag/index.html`. Ona namjerno koristi prag 35 umjesto zahtijevanih 28. Unos 30 zato otkriva pogrešku. Ne koristite je kao ispravnu projektnu inačicu.
